@@ -2,11 +2,12 @@
 <!-- author: Jacob Fielder -->
 <!-- Resources: w3schools -->
 🦭Cumbie CIS 376 Web Dev Spring '25 Midterm Dev Exam
-authors: Dr. Cumbie, Jacob Fielder
+
+- authors: Dr. Cumbie, Jacob Fielder
 
 ### Resources
-w3schools - footer
-codepen - anchor background
+- w3schools - footer
+- codepen - anchor background
 
 
 - Internet, past projects, and all
