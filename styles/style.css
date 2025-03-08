@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@700&family=Roboto&family=Tilt+Prism&display=swap');
+
+
+body {
+  /* TODO✅: 🐶9. can't I get a background with anchors on it? (hint: codePen) */
+  background-image: url('https://fancywalls.eu/wp-content/uploads/anchor-nautical-pattern-repeat-removable-wallpaper-design.jpg');
+}
+
+h4 {
+  /* TODO✅: 🐶10. Tilt Prism is not working for my design preference. How about another **already imported** google font? */
+  font: 'roboto', sans-serif;
+}
+
+#shoeBox {
+  display: flex; 
+  justify-content: space-around;
+}
+
+.shoe{
+  height: 250px; 
+  width: 250px; 
+  background-color: tomato;
+  background-image: url('../shoeIcon.png'); 
+}
+
+.winColor { background-color: green !important;}
+.loseColor { background-color: red !important;}
+
+/* (prob will have some more id or class for game controls) */
+
+#shellySeal {
+  font-size: 240px;  
+  margin: 0px; padding:0px; 
+}
+
+.gameControls {
+  position: fixed;
+  top: 25%;
+  right: 0;
+}
+/* #reset {
+  position: absolute;
+  right: 10px;
+  top: 160px;
+}
+
+#replay {
+  position: absolute;
+  right: 10px;
+  top: 200px;
+} */
+
+.row.text-center {
+  height: 350px;
+}
